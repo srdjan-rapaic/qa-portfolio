@@ -1,3 +1,3 @@
 # QA Portfolio
-Test automation projects: Playwright (UI + API) and Postman.
+Test automation projects: Playwright and Postman (UI and API tests).
 Author: Srdjan Rapaic
